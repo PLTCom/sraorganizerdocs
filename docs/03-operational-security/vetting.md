@@ -13,7 +13,7 @@ Interview each candidate member in person. This should be done with two full mem
 
 #### Sample Questions
 
-Welcome to the DC Metro Chapter of the SRA!!! Before we hit the range and get into chapter events, we would like to know more about yourself. 
+Welcome to the <Insert Chapter> Chapter of the SRA!!! Before we hit the range and get into chapter events, we would like to know more about yourself. 
 
 1. Preferred name and pronouns?
 2. Where are you (approximate county/district)? No need for a specific address, this is just for us to coordinate for local events.
