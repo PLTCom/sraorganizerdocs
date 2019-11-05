@@ -1,5 +1,4 @@
 # Socialist Organizing, Not Capitalist Transactions
-## Introduction
 
   The 2016 election of Donald Trump as the President of the United States started an explosion of growth on the left. Membership in socialist organizations of all stripes grew exponentially after the inauguration. Many of these people migrated from the Democratic Party, disillusioned with a party machine who put forward a candidate hated by a large population of people in the US. A large portion of these new leftists have no organizing experience whatsoever, and may have no experience in organizing. 
 
